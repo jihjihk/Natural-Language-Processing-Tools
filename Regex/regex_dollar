@@ -1,0 +1,5 @@
+((?:(\$\d+(([ ,.-]*\d+)*[- ]*(mil(?:lion)?|billion|trillion)*s?))|(((\d+)[\s,.-]*|(?:(eleven|twelve|thirt(?:y|een)|four(?:teen)?|fift(?:y|een)|six(?:teen|ty)?|
+    seven(?:teen|ty)?|eight(?:een|y)?|nine(?:teen|ty)?|twenty|forty|one|two|three|five|
+    tens?|hundreds?|thousands?|(?:[mb]|tr)illions?)\s*)+)\s+(cents?)\s{1})|((\$?\d+([ ,.-]*\d*))*\s*(?:(several|a|one|a few|few|half a|a quarter|quarter of)*)\s*(?:(eleven|twelve|thirt(?:y|een)|four(?:teen)?|fift(?:y|een)|six(?:teen|ty)?|
+    seven(?:teen|ty)?|eight(?:een|y)?|nine(?:teen|ty)?|twenty|forty|one|two|three|five|
+    tens?|hundreds?|thousands?|(?:[mb]|tr)illions?)\s*)+(dollars?))))
