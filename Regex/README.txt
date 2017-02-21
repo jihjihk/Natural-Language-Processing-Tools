@@ -1,8 +1,4 @@
-jk4704
 Jihyun Kim
-----
-
-NLP Assignment 2
 
 To run this program, please type in:
 
